@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on advanced **Kubernetes & OpenShift** implementations
 - 🌱 I’m currently preparing for my **Certified Kubernetes Application Developer (CKAD)** exam
-- 🏆 **Certifications:** Certified Kubernetes Adminitrator(CKA), Red Hat Certified System Administrator (RHCSA RHEL 9 & 10) & Terraform Certified Associate 004 & 
+- 🏆 **Certifications:** Certified Kubernetes Adminitrator(CKA), Red Hat Certified System Administrator (RHCSA RHEL 9 & 10) & Terraform Certified Associate 004.
 - 👯 I’m looking to collaborate on **DevOps, IaC, and automation projects**
 - 💬 Ask me about **AWS, Ansible, Docker, Terraform, RHEL & Kubernetes**
 
