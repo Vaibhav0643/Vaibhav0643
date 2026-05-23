@@ -7,8 +7,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Vaibhav0643&label=Profile%20views&color=0e75b6&style=flat" alt="Vaibhav0643" /> </p>
 
 - 🔭 I’m currently working on advanced **Kubernetes & OpenShift** implementations
-- 🌱 I’m currently preparing for my **Certified Kubernetes Adminitrator(CKA)** exam
-- 🏆 **Certifications:** Red Hat Certified System Administrator (RHCSA RHEL 9 & 10) and Terraform Certified Associate 004
+- 🌱 I’m currently preparing for my **Certified Kubernetes Application Developer (CKAD)** exam
+- 🏆 **Certifications:** Certified Kubernetes Adminitrator(CKA), Red Hat Certified System Administrator (RHCSA RHEL 9 & 10) & Terraform Certified Associate 004 & 
 - 👯 I’m looking to collaborate on **DevOps, IaC, and automation projects**
 - 💬 Ask me about **AWS, Ansible, Docker, Terraform, RHEL & Kubernetes**
 
